@@ -14,7 +14,7 @@ public class GitTestMain {
 		// => LocalDateTime 클래스의 toString() 메서드에 출력폼 정의
 		DateTimeFormatter df = DateTimeFormatter.ofPattern("yyyy-MM-dd, HH:mm:ss");
 		System.out.println("** LocalDateTime pattern => " + today.format(df));
-		System.out.println("Commit Test 1");
-		System.out.println("Commit Test 2");
+		System.out.println("Commit Test 01");
+		System.out.println("Commit Test 02");
 	} // main
 } // class
