@@ -7,6 +7,7 @@ public class NewClass {
 		System.out.println("New Class 02");
 		System.out.println("Hotfix Branch 01");
 		System.out.println("Hotfix Branch 02");
-		System.out.println("Merge Test 성공");
+		System.out.println("Merge Test 성공 01");
+		System.out.println("Merge Test 성공 02");
 	}
 }
